@@ -1,0 +1,8 @@
+[datasource]
+platform = "h2"
+
+#[datasource.external]
+#driver_class_name = ""
+#url = ""
+#username = ""
+#password = ""

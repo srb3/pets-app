@@ -1,0 +1,2 @@
+#!{{pkgPathFor "core/bash"}}/bin/bash
+java -jar {{pkg.path}}/{{pkg.name}}-{{pkg.version}}.war
