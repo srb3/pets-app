@@ -1,0 +1,5 @@
+CREATE TABLE pet ( 
+   id IDENTITY NOT NULL PRIMARY KEY, 
+   name VARCHAR(252), 
+   species VARCHAR(255)
+);
